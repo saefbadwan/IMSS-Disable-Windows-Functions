@@ -1,0 +1,29 @@
+C:\Users\iMSS\Documents\Visual Studio 2010\Projects\Disable Windows Functions\Disable Windows Functions\bin\Release\Disable Windows Functions.exe.config
+C:\Users\iMSS\Documents\Visual Studio 2010\Projects\Disable Windows Functions\Disable Windows Functions\bin\Release\Disable Windows Functions.exe
+C:\Users\iMSS\Documents\Visual Studio 2010\Projects\Disable Windows Functions\Disable Windows Functions\bin\Release\Disable Windows Functions.pdb
+C:\Users\iMSS\Documents\Visual Studio 2010\Projects\Disable Windows Functions\Disable Windows Functions\bin\Release\Disable Windows Functions.xml
+C:\Users\iMSS\Documents\Visual Studio 2010\Projects\Disable Windows Functions\Disable Windows Functions\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\iMSS\Documents\Visual Studio 2010\Projects\Disable Windows Functions\Disable Windows Functions\obj\x86\Release\Disable_Windows_Functions.IMSS_ConfigureOptions.resources
+C:\Users\iMSS\Documents\Visual Studio 2010\Projects\Disable Windows Functions\Disable Windows Functions\obj\x86\Release\Disable_Windows_Functions.MainWindow.resources
+C:\Users\iMSS\Documents\Visual Studio 2010\Projects\Disable Windows Functions\Disable Windows Functions\obj\x86\Release\Disable_Windows_Functions.Resources.resources
+C:\Users\iMSS\Documents\Visual Studio 2010\Projects\Disable Windows Functions\Disable Windows Functions\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\iMSS\Documents\Visual Studio 2010\Projects\Disable Windows Functions\Disable Windows Functions\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\iMSS\Documents\Visual Studio 2010\Projects\Disable Windows Functions\Disable Windows Functions\obj\x86\Release\Disable Windows Functions.exe
+C:\Users\iMSS\Documents\Visual Studio 2010\Projects\Disable Windows Functions\Disable Windows Functions\obj\x86\Release\Disable Windows Functions.xml
+C:\Users\iMSS\Documents\Visual Studio 2010\Projects\Disable Windows Functions\Disable Windows Functions\obj\x86\Release\Disable Windows Functions.pdb
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Disable Windows Functions\Disable Windows Functions\bin\Release\Disable Windows Functions.exe.config
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Disable Windows Functions\Disable Windows Functions\bin\Release\Disable Windows Functions.exe
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Disable Windows Functions\Disable Windows Functions\bin\Release\Disable Windows Functions.pdb
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Disable Windows Functions\Disable Windows Functions\bin\Release\Disable Windows Functions.xml
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Disable Windows Functions\Disable Windows Functions\bin\Release\IMSS_Multiuse.dll
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Disable Windows Functions\Disable Windows Functions\bin\Release\IMSS_Multiuse.pdb
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Disable Windows Functions\Disable Windows Functions\bin\Release\IMSS_Multiuse.xml
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Disable Windows Functions\Disable Windows Functions\obj\x86\Release\ResolveAssemblyReference.cache
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Disable Windows Functions\Disable Windows Functions\obj\x86\Release\Disable_Windows_Functions.IMSS_ConfigureOptions.resources
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Disable Windows Functions\Disable Windows Functions\obj\x86\Release\Disable_Windows_Functions.MainWindow.resources
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Disable Windows Functions\Disable Windows Functions\obj\x86\Release\Disable_Windows_Functions.Resources.resources
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Disable Windows Functions\Disable Windows Functions\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Disable Windows Functions\Disable Windows Functions\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Disable Windows Functions\Disable Windows Functions\obj\x86\Release\Disable Windows Functions.exe
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Disable Windows Functions\Disable Windows Functions\obj\x86\Release\Disable Windows Functions.xml
+D:\IMSS Labs\IMSS Versions\Ver 2.0.1.2\Other Tools\IMSS Disable Windows Functions\Disable Windows Functions\obj\x86\Release\Disable Windows Functions.pdb

@@ -1,0 +1,24 @@
+C:\Users\iMSS\AppData\Local\Temporary Projects\Disable Windows Functions\bin\Debug\Disable Windows Functions.exe
+C:\Users\iMSS\AppData\Local\Temporary Projects\Disable Windows Functions\bin\Debug\Disable Windows Functions.pdb
+C:\Users\iMSS\AppData\Local\Temporary Projects\Disable Windows Functions\bin\Debug\Disable Windows Functions.xml
+C:\Users\iMSS\AppData\Local\Temporary Projects\Disable Windows Functions\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\iMSS\AppData\Local\Temporary Projects\Disable Windows Functions\obj\x86\Debug\Disable_Windows_Functions.Form1.resources
+C:\Users\iMSS\AppData\Local\Temporary Projects\Disable Windows Functions\obj\x86\Debug\Disable_Windows_Functions.Resources.resources
+C:\Users\iMSS\AppData\Local\Temporary Projects\Disable Windows Functions\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\iMSS\AppData\Local\Temporary Projects\Disable Windows Functions\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\iMSS\AppData\Local\Temporary Projects\Disable Windows Functions\obj\x86\Debug\Disable Windows Functions.exe
+C:\Users\iMSS\AppData\Local\Temporary Projects\Disable Windows Functions\obj\x86\Debug\Disable Windows Functions.xml
+C:\Users\iMSS\AppData\Local\Temporary Projects\Disable Windows Functions\obj\x86\Debug\Disable Windows Functions.pdb
+C:\Users\iMSS\documents\visual studio 2010\Projects\Disable Windows Functions\Disable Windows Functions\obj\x86\Debug\Disable Windows Functions.exe
+C:\Users\iMSS\documents\visual studio 2010\Projects\Disable Windows Functions\Disable Windows Functions\obj\x86\Debug\Disable Windows Functions.xml
+C:\Users\iMSS\documents\visual studio 2010\Projects\Disable Windows Functions\Disable Windows Functions\obj\x86\Debug\Disable Windows Functions.pdb
+C:\Users\iMSS\documents\visual studio 2010\Projects\Disable Windows Functions\Disable Windows Functions\bin\Debug\Disable Windows Functions.exe
+C:\Users\iMSS\documents\visual studio 2010\Projects\Disable Windows Functions\Disable Windows Functions\bin\Debug\Disable Windows Functions.pdb
+C:\Users\iMSS\documents\visual studio 2010\Projects\Disable Windows Functions\Disable Windows Functions\bin\Debug\Disable Windows Functions.xml
+C:\Users\iMSS\documents\visual studio 2010\Projects\Disable Windows Functions\Disable Windows Functions\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\iMSS\documents\visual studio 2010\Projects\Disable Windows Functions\Disable Windows Functions\obj\x86\Debug\Disable_Windows_Functions.MainWindow.resources
+C:\Users\iMSS\documents\visual studio 2010\Projects\Disable Windows Functions\Disable Windows Functions\obj\x86\Debug\Disable_Windows_Functions.Resources.resources
+C:\Users\iMSS\documents\visual studio 2010\Projects\Disable Windows Functions\Disable Windows Functions\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\iMSS\documents\visual studio 2010\Projects\Disable Windows Functions\Disable Windows Functions\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\iMSS\documents\visual studio 2010\Projects\Disable Windows Functions\Disable Windows Functions\bin\Debug\Disable Windows Functions.exe.config
+C:\Users\iMSS\documents\visual studio 2010\Projects\Disable Windows Functions\Disable Windows Functions\obj\x86\Debug\Disable_Windows_Functions.IMSS_ConfigureOptions.resources
